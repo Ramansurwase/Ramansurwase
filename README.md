@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Data Engineering Projects I'm looking to collaborate on Data Engineering Field like for SQL, Apache Spark, Databricks I'm looking for help with Data Engineering Job I'm currently learning Hand on project related to data engineering to gain some hands on experience and strengthen my skills Ask me about IT Engineer and Data Engineering Anything + Fun fact
+I'm currently working on Data Engineering Projects I'm looking to collaborate on Data Engineering Field like for SQL, Apache Spark, Databricks I'm looking for help with Data Engineering Job I'm currently learning Hands on project related to data engineering to gain some hands on experience and strengthen my skills Ask me about IT Engineer and Data Engineering Anything + Fun fact
 
 
 ## 🌐 Socials:
